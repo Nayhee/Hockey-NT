@@ -1,0 +1,16 @@
+C:\Users\natha\workspace\Hockey\Hockey\obj\Debug\net5.0\Hockey.csproj.AssemblyReference.cache
+C:\Users\natha\workspace\Hockey\Hockey\obj\Debug\net5.0\Hockey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\workspace\Hockey\Hockey\obj\Debug\net5.0\Hockey.AssemblyInfoInputs.cache
+C:\Users\natha\workspace\Hockey\Hockey\obj\Debug\net5.0\Hockey.AssemblyInfo.cs
+C:\Users\natha\workspace\Hockey\Hockey\obj\Debug\net5.0\Hockey.csproj.CoreCompileInputs.cache
+C:\Users\natha\workspace\Hockey\Hockey\bin\Debug\net5.0\Hockey.exe
+C:\Users\natha\workspace\Hockey\Hockey\bin\Debug\net5.0\Hockey.deps.json
+C:\Users\natha\workspace\Hockey\Hockey\bin\Debug\net5.0\Hockey.runtimeconfig.json
+C:\Users\natha\workspace\Hockey\Hockey\bin\Debug\net5.0\Hockey.runtimeconfig.dev.json
+C:\Users\natha\workspace\Hockey\Hockey\bin\Debug\net5.0\Hockey.dll
+C:\Users\natha\workspace\Hockey\Hockey\bin\Debug\net5.0\ref\Hockey.dll
+C:\Users\natha\workspace\Hockey\Hockey\bin\Debug\net5.0\Hockey.pdb
+C:\Users\natha\workspace\Hockey\Hockey\obj\Debug\net5.0\Hockey.dll
+C:\Users\natha\workspace\Hockey\Hockey\obj\Debug\net5.0\ref\Hockey.dll
+C:\Users\natha\workspace\Hockey\Hockey\obj\Debug\net5.0\Hockey.pdb
+C:\Users\natha\workspace\Hockey\Hockey\obj\Debug\net5.0\Hockey.genruntimeconfig.cache
